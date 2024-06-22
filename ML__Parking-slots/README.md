@@ -31,5 +31,5 @@ This project is divided into several phases, each designed to deepen the underst
    ● Mask Images, binary images containing a map of the parking spots.\
    ● Not_empty Folder: Contains more than 3,000 images of occupied spots for training purposes (reduced to a sample of 10 for GitHub).\
    ● Empty Folder: Contains more than 3,000 images of empty spots for training
-   purposes (reduced to a sample of 10 for GitHub).\
+   purposes (reduced to a sample of 10 for GitHub).
 
