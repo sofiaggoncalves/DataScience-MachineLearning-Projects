@@ -26,7 +26,7 @@ This project is divided into several phases, each designed to deepen the underst
 1. **Python Code:** Python code that conducts the analysis.
 2. **Report**: Detailed report documenting the EDA findings, model development process, evaluation metrics, and conclusions about the model's performance.
 3. **Presentation**: Short presentation that overviews the project, from the dataset analysis to the final model evaluation.
-4. **Dataset**
+4. **Dataset**\
    ● Video, with the parking space and a clear view of the spots and their occupancy, including a longer video, a smaller version, and two cropped videos, all the same shots.\
    ● Mask Images, binary images containing a map of the parking spots.\
    ● Not_empty Folder: Contains more than 3,000 images of occupied spots for training purposes (reduced to a sample of 10 for GitHub).\
